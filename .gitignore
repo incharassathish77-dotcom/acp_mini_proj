@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.log
+test_output.txt
+test_output_utf8.txt
